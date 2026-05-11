@@ -12,7 +12,7 @@ export default function Hero() {
 
       <div className="absolute inset-0 bg-black/70" />
 
-      <Container className="relative z-10 flex min-h-screen flex-col items-center justify-center text-left">
+      <Container className="relative z-10 flex min-h-screen flex-col justify-center text-left">
         <h1 className="max-w-5xl text-5xl font-bold tracking-tight md:text-7xl">
           Major GAKZ Construction Ltd.
         </h1>
@@ -25,7 +25,7 @@ export default function Hero() {
           precision, efficiency, and dependable execution.
         </p>
 
-        <div className="mt-10 flex flex-wrap justify-center gap-4">
+        <div className="mt-10 flex flex-wrap gap-4 ">
           <Button className="bg-accent/40">Get a Quote</Button>
 
           <Button className="bg-white/10">View Projects</Button>
