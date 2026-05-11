@@ -59,7 +59,10 @@ export default function WhyUs() {
           </div>
 
           <div className="mt-10">
-            <Button className="bg-accent-soft text-primary px-2">
+            <Button
+              className="bg-accent-soft text-primary px-2"
+              href="tel:+16473900001"
+            >
               Get a Quote
             </Button>
           </div>

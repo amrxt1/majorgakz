@@ -26,8 +26,12 @@ export default function Hero() {
         </p>
 
         <div className="mt-10 flex flex-wrap gap-4 ">
-          <Button className="bg-accent/20 text-lg px-2">Get a Quote</Button>
-          <Button className="bg-white/10 text-lg px-2">View Projects</Button>
+          <Button className="bg-accent/20 text-lg px-2" href="tel:+16473900001">
+            Get a Quote
+          </Button>
+          <Button className="bg-white/10 text-lg px-2" href="#project">
+            View Projects
+          </Button>
         </div>
       </Container>
     </section>

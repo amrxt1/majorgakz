@@ -13,7 +13,9 @@ export default function NavBar() {
           </h1>
         </div>
 
-        <Button className="bg-accent-soft text-sm">Get a Quote</Button>
+        <Button className="bg-accent-soft text-sm" href="tel:+16473900001">
+          Get a Quote
+        </Button>
       </Container>
     </div>
   );
