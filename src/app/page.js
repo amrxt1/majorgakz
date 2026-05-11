@@ -1,11 +1,11 @@
-import Container from "@/components/ui/Container";
 import NavBar from "@/components/ui/NavBar";
+import Hero from "@/components/sections/Hero";
 
 export default function Home() {
   return (
     <>
       <NavBar />
-      <Container></Container>
+      <Hero />
     </>
   );
 }

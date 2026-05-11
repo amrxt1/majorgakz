@@ -1,7 +1,7 @@
-export default function Container({ children, className }) {
+export default function Container({ children, className = "" }) {
   return (
-    <div className="flex w-full justify-center px-4">
-      <div className={`w-full max-w-[800px] ${className}`}>{children}</div>
+    <div className="w-full px-4 md:px-8">
+      <div className={`mx-auto w-full max-w-7xl ${className}`}>{children}</div>
     </div>
   );
 }
