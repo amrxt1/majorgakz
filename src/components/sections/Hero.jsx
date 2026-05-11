@@ -16,19 +16,18 @@ export default function Hero() {
         <h1 className="max-w-5xl text-5xl font-bold tracking-tight md:text-7xl">
           Major GAKZ Construction Ltd.
         </h1>
-        <h1 className="max-w-5xl text-4xl tracking-tight md:text-6xl">
+        <h1 className="max-w-5xl mt-8 text-2xl tracking-tight md:text-6xl">
           Precision Framing Built to Last.
         </h1>
 
-        <p className="mt-4 max-w-2xl text-lg leading-relaxed text-white/80 md:text-xl">
+        <p className=" max-w-2xl  leading-relaxed text-white/80 md:text-xl">
           Reliable residential and commercial wood framing services built with
           precision, efficiency, and dependable execution.
         </p>
 
         <div className="mt-10 flex flex-wrap gap-4 ">
-          <Button className="bg-accent/40">Get a Quote</Button>
-
-          <Button className="bg-white/10">View Projects</Button>
+          <Button className="bg-accent/20 text-lg px-2">Get a Quote</Button>
+          <Button className="bg-white/10 text-lg px-2">View Projects</Button>
         </div>
       </Container>
     </section>

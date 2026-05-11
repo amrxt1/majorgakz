@@ -22,8 +22,8 @@ export default function Services() {
             Framing for duplexes, townhomes, and multi-family developments.
           </ServiceCard>
 
-          <ServiceCard title="Roof Framing">
-            Strong, stable roof systems built for long-term performance.
+          <ServiceCard title="Garage Framing">
+            Strong, stable garages built for long-term performance.
           </ServiceCard>
 
           <ServiceCard title="Structural Layout & Assembly">

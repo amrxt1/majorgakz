@@ -9,7 +9,7 @@ export default function Footer() {
             <h3 className="text-white text-lg font-semibold mb-3">
               Contact Us
             </h3>
-            <p className="text-sm">
+            <p className="text-sm text-accent-soft underline">
               <a
                 href="mailto:majorgakz2022@gmail.com"
                 className="hover:text-white transition-colors"
@@ -17,12 +17,12 @@ export default function Footer() {
                 majorgakz2022@gmail.com
               </a>
             </p>
-            <p className="text-sm mt-1">
+            <p className="text-sm mt-1 text-accent-soft">
               <a
                 href="tel:+16473900001"
-                className="hover:text-white transition-colors"
+                className="hover:text-white underline transition-colors"
               >
-                Call: (647) 390-0001
+                +1 (647) 390-0001
               </a>
             </p>
           </div>

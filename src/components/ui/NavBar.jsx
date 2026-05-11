@@ -8,7 +8,7 @@ export default function NavBar() {
         <div className="flex items-center">
           <img src="/logo.png" alt="logo" className="size-10" />
 
-          <h1 className="text-2xl pl-2 text-background font-semibold">
+          <h1 className="text-xl pl-2 text-background font-semibold">
             Major GAKZ
           </h1>
         </div>
