@@ -12,12 +12,15 @@ export default function Hero() {
 
       <div className="absolute inset-0 bg-black/70" />
 
-      <Container className="relative z-10 flex min-h-screen flex-col items-center justify-center text-center">
+      <Container className="relative z-10 flex min-h-screen flex-col items-center justify-center text-left">
         <h1 className="max-w-5xl text-5xl font-bold tracking-tight md:text-7xl">
+          Major GAKZ Construction Ltd.
+        </h1>
+        <h1 className="max-w-5xl text-4xl tracking-tight md:text-6xl">
           Precision Framing Built to Last.
         </h1>
 
-        <p className="mt-6 max-w-2xl text-lg leading-relaxed text-white/80 md:text-xl">
+        <p className="mt-4 max-w-2xl text-lg leading-relaxed text-white/80 md:text-xl">
           Reliable residential and commercial wood framing services built with
           precision, efficiency, and dependable execution.
         </p>
